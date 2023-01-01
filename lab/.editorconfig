@@ -1,0 +1,28 @@
+{
+    "editor.fontSize": 15,
+    "editor.tabSize": 4,
+    "editor.trimAutoWhitespace": true,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": false,
+    "rust-client.rustupPath": "/Users/dprasad/.cargo/bin/rustup",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "php.validate.run": "onType",
+    "window.zoomLevel": 1,
+    "editor.indentSize": "tabSize",
+    "insert_final_newline": true,
+    "indent_style": "space",
+    "[javascript]": {
+        "editor.tabSize": 4,
+    },
+    "[typescript]": {
+        "editor.tabSize": 4
+    }
+}
